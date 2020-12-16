@@ -1,0 +1,19 @@
+.nav__item a {
+    text-decoration: none;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    color: black;
+    /*opacity: .5;*/
+
+}
+
+.nav__item a:hover {
+    color: #def196;
+    /*opacity: 1;*/
+    text-shadow: 0 0 9px #fdf9f9;
+}
+
+.nav__item:hover {
+    transition: all .5s ease-out;
+    transform: scale(1.1);
+}

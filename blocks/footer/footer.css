@@ -1,0 +1,8 @@
+@import url("./__logo/footer__logo.css");
+.footer {
+    display: flex;
+    font-family: 'sans-serif';
+     padding-left: 3%;
+    align-items: center;
+    background: linear-gradient(to right, #74993f, #354723);
+}

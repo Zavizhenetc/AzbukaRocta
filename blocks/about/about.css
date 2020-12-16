@@ -1,0 +1,21 @@
+@import url("./__title/about__title.css");
+@import url("./__text/about__text.css");
+@import url("./__items/about__items.css");
+@import url("./__item-logo/about__item-logo.css");
+@import url("./__item/about__item.css");
+@import url("./__mission-title/about__mission-title.css");
+@import url("./__mission-text/about__mission-text.css");
+@import url("./__author/about__author.css");
+@import url("./__author-img-container/about__author-img-container.css");
+@import url("./__author-img/about__author-img.css");
+@import url("./__author-description/about__author-description.css");
+@import url("./__author-text/about__author-text.css");
+@import url("./__author-title/about__author-title.css");
+@import url("./__author-link/about__author-link.css");
+
+.about {
+    font-family: 'sans-serif';
+    max-width: 1440px;
+    text-align: center;
+    padding-top: 4%;
+}

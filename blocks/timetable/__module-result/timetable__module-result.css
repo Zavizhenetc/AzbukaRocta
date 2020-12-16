@@ -1,0 +1,10 @@
+
+.timetable__module-result {
+border-bottom: 1px solid #fff;
+}
+.timetable__module-result span{
+    opacity: 1;
+    font-size: 1.2em;
+    font-weight: bold;
+
+}

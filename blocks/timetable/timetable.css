@@ -1,0 +1,21 @@
+@import url("./__text-container/timetable__text-container.css");
+@import url("./__title/timetable__title.css");
+@import url("./__modules/timetable__modules.css");
+@import url("./__module-text/timetable__module-text.css");
+@import url("./__module-result/timetable__module-result.css");
+
+.timetable {
+    display: flex;
+    font-family: 'sans-serif';
+    padding-top: 4%;
+    padding-right: 0;
+    padding-left: 2%;
+    /*padding-bottom: 0;*/
+    background-image: url(../../images/positive_student.png);
+    background-position-x: left;
+    background-position-y: bottom;
+    background-size: 35%;
+    background-repeat: no-repeat;
+
+}
+

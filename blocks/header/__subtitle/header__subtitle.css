@@ -1,0 +1,7 @@
+.header__subtitle {
+    color: #def196;
+    font-size: 4em;
+    line-height: .9em;
+    text-transform: lowercase;
+    margin-top: 0;
+}

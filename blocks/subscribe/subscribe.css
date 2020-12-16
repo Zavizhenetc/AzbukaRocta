@@ -1,0 +1,10 @@
+@import url("./__title/subscribe__title.css");
+@import url("./__text/subscribe__text.css");
+@import url("./__container/subscribe__container.css");
+@import url("./__discount/subscribe__discount.css");
+
+.subscribe {
+    font-family: 'sans-serif';
+    padding-top: 4%;
+    padding-bottom: 4%;
+}

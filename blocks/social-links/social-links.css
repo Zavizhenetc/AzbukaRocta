@@ -1,0 +1,10 @@
+@import url("./__link/social-links__link.css");
+@import url("./__img/social-links__img.css");
+
+.social-links {
+    list-style: none;
+    display: flex;
+    width: 38%;
+    justify-content: space-between;
+    margin: 0 auto;
+}

@@ -1,0 +1,23 @@
+@import url("../vendor/normalize.css");
+@import url("../blocks/root/root.css");
+@import url("../blocks/header/header.css");
+@import url("../blocks/nav/nav.css");
+@import url("../blocks/about/about.css");
+@import url("../blocks/timetable/timetable.css");
+@import url("../blocks/subscribe/subscribe.css");
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/social-links/social-links.css");
+
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+/*  как лучше реализовать ? в отдельный файл ? и подключить отдельно в голове? 
+или в отдельный блок и подключить к styles?  */

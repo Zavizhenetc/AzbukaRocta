@@ -1,0 +1,7 @@
+.subscribe__text{
+    margin: 0;
+    font-size: 1.5em;
+}.subscribe__text span{
+    color: black;
+    font-weight: bold;
+}

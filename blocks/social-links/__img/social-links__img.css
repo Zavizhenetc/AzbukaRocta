@@ -1,0 +1,11 @@
+.social-links__img {
+    max-height: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.social-links__img:hover {
+    transform: rotate(360deg);
+    transition: all .8s ease-out;
+    /*box-shadow: 0 0 9px #fdf9f9;*/
+}
