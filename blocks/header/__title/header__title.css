@@ -5,8 +5,12 @@
     text-transform: uppercase;
     margin-bottom: 0;
 }
-@media screen and (max-width: 1040px){
+@media screen and (max-width: 1225px){
     .header__title {
         font-size: 4em;
+    }
+}@media screen and (max-width: 600px){
+    .header__title {
+        font-size: 2.2em;
     }
 }

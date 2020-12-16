@@ -2,8 +2,9 @@
 @import url("./__item/nav__item.css");
 
 .nav {
+    max-width: 1440px;
     width: 80%;
     font-family: 'sans-serif';
     justify-content: center;
-    margin: 0 auto;
+    /*margin: 0 auto;*/
 }

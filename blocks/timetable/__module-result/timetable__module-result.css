@@ -4,7 +4,8 @@ border-bottom: 1px solid #fff;
 }
 .timetable__module-result span{
     opacity: 1;
-    font-size: 1.2em;
+    /*font-size: 1.2em;*/
     font-weight: bold;
+    text-shadow: 0 0 9px #fdf9f9;
 
 }

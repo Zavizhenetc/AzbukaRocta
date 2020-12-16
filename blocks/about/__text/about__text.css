@@ -17,4 +17,8 @@
     .about__text  {
         font-size: 1.5em;
     }
+}@media screen and (max-width: 600px) {
+    .about__text  {
+        font-size: 1.3em;
+    }
 }

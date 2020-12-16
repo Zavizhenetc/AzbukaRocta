@@ -1,8 +1,12 @@
 .header__logo {
     max-height: 17em;
 }
-@media screen and (max-width: 1040px){
+@media screen and (max-width: 1200px){
     .header__logo {
         max-height: 11em;
+    }
+}@media screen and (max-width: 600px){
+    .header__logo {
+        max-height: 5em;
     }
 }

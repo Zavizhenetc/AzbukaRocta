@@ -1,3 +1,10 @@
-.about__mission-text{
+.about__mission-text {
     font-size: 2em;
+}
+
+@media screen and (max-width: 600px ) {
+    .about__mission-text {
+        font-size: 1.5em;
+        padding: 4%;
+    }
 }

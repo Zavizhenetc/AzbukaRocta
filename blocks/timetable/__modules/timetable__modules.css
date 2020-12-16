@@ -1,6 +1,14 @@
 .timetable__modules {
     background-color: #2f481e;
     padding: 2%;
-    color: white;
+    color: #def196;
     font-size: 1.5em;
+}
+
+@media screen and (max-width: 850px) {
+    .timetable__modules {
+        padding-right: 4%;
+        padding-left: 4%;
+
+    }
 }

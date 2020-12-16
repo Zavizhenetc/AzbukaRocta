@@ -1,4 +1,9 @@
 .about__items{
     list-style: none;
-    background-color: #7fc330;
+    /*background-color: #7fc330;*/
+}
+@media screen and (max-width: 600px){
+    .about__items{
+        padding-left: 2%;
+    }
 }

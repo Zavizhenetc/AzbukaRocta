@@ -1,3 +1,10 @@
 .about__author-title{
 padding-left: 300px;
 }
+@media screen and (max-width: 850px) {
+    .about__author-title {
+        padding-left: 4%;
+        padding-right: 4%;
+        text-align: center;
+    }
+}

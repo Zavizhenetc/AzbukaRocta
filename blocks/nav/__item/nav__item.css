@@ -19,9 +19,16 @@
     transform: scale(1.1);
 }
 
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1200px) {
     .nav__item a {
         font-size: 1.05em;
+
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .nav__item a {
+        font-size: .8em;
 
     }
 }

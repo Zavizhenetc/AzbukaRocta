@@ -1,3 +1,10 @@
 .about__item-logo {
     max-height: 6em;
 }
+
+@media screen and (max-width: 600px) {
+    .about__item-logo {
+        max-height: 2em;
+    }
+
+}

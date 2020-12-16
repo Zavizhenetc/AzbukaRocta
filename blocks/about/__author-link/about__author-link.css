@@ -1,3 +1,35 @@
-.about__author-link{
-    text-decoration: none;
+.about__author-link {
+    /*text-decoration: none;*/
+    color: black;
+    animation: pulse 3s infinite linear;
 }
+
+@media screen and (max-width: 600px) {
+    .about__author-link {
+        font-size: .95em;
+    }
+}
+
+@keyframes pulse {
+    0% {
+        opacity: 0;
+        color: #00000057;
+    }
+    25% {
+        opacity: .5;
+        color: #483737;
+    }
+    50% {
+        opacity: 1;
+        color: #864141;
+    }
+    75% {
+        opacity: .5;
+        color: #a52d2d;
+    }
+    100% {
+        opacity: 0;
+        color: #f50505;
+    }
+}
+

@@ -1,6 +1,14 @@
-.nav__items{
+.nav__items {
     list-style: none;
     display: flex;
     justify-content: space-between;
     margin: 0;
 }
+
+@media screen and (max-width: 600px) {
+    .nav__items {
+        flex-direction: column;
+        padding: 0;
+    }
+}
+

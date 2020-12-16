@@ -1,8 +1,16 @@
 @import url("./__logo/footer__logo.css");
+
 .footer {
     display: flex;
     font-family: 'sans-serif';
-     padding-left: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
     align-items: center;
+    justify-content: center;
     background: linear-gradient(to right, #74993f, #354723);
+}
+@media screen and (max-width: 600px){
+    .footer{
+        padding: 3%;
+    }
 }

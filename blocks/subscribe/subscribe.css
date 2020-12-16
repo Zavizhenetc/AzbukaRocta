@@ -5,6 +5,16 @@
 
 .subscribe {
     font-family: 'sans-serif';
+    max-width: 1440px;
+    margin: 0 auto;
     padding-top: 4%;
     padding-bottom: 4%;
+}
+
+@media screen and (max-width: 850px) {
+    .subscribe {
+        padding: 4%;
+        padding-left: 0;
+        padding-right: 0;
+    }
 }

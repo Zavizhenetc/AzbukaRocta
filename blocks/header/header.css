@@ -9,4 +9,5 @@
     font-family: 'sans-serif';
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }

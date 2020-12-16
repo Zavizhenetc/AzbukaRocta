@@ -7,6 +7,8 @@
 .timetable {
     display: flex;
     font-family: 'sans-serif';
+    max-width: 1440px;
+    margin: 0 auto;
     padding-top: 4%;
     padding-right: 0;
     padding-left: 2%;
@@ -17,5 +19,19 @@
     background-size: 50%;
     background-repeat: no-repeat;
 
+}
+
+@media screen and (max-width: 1200px){
+    .timetable{
+        background-position-x: -13em;
+        background-size: 90%;
+    }
+}
+@media screen and (max-width: 850px){
+    .timetable{
+        flex-direction: column;
+        background-image: none;
+        padding-left: 0;
+    }
 }
 

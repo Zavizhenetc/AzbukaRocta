@@ -4,3 +4,13 @@
     align-items: center;
     text-align: left;
 }
+
+@media screen and (max-width: 600px) {
+    .about__item {
+        flex-direction: column;
+        font-size: 1.5em;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+
+}

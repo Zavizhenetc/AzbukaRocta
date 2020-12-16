@@ -8,3 +8,10 @@
     justify-content: space-between;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 850px) {
+    .social-links {
+        width: 55%;
+        padding: 0;
+    }
+}

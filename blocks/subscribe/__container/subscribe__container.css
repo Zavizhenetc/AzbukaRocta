@@ -1,5 +1,12 @@
-.subscribe__container{
-   padding-left: 2%;
+.subscribe__container {
+    padding-left: 2%;
     padding-right: 2%;
     margin-bottom: 4%;
+}
+
+@media screen and (max-width: 850px) {
+    .subscribe__container {
+        padding-left: 4%;
+        padding-right: 4%;
+    }
 }

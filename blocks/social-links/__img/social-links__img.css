@@ -9,3 +9,10 @@
     transition: all .8s ease-out;
     /*box-shadow: 0 0 9px #fdf9f9;*/
 }
+
+@media screen and (max-width: 600px) {
+    .social-links__img{
+        max-height: 30px;
+    }
+
+}
