@@ -5,3 +5,8 @@
     text-transform: uppercase;
     margin-bottom: 0;
 }
+@media screen and (max-width: 1040px){
+    .header__title {
+        font-size: 4em;
+    }
+}

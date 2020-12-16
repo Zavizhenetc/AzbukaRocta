@@ -13,3 +13,8 @@
     font-size: 2em;
     transition: all .3s ease-out;
 }
+@media screen and (max-width: 1040px) {
+    .about__text  {
+        font-size: 1.5em;
+    }
+}

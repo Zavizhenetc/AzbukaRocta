@@ -4,3 +4,8 @@
     text-transform: uppercase;
 
 }
+@media screen and (max-width: 1040px) {
+    .about__title  {
+        font-size: 2em;
+    }
+}

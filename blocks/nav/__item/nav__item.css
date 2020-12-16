@@ -7,6 +7,7 @@
 
 }
 
+
 .nav__item a:hover {
     color: #def196;
     /*opacity: 1;*/
@@ -16,4 +17,11 @@
 .nav__item:hover {
     transition: all .5s ease-out;
     transform: scale(1.1);
+}
+
+@media screen and (max-width: 1040px) {
+    .nav__item a {
+        font-size: 1.05em;
+
+    }
 }
