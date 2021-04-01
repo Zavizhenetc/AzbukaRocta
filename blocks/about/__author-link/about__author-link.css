@@ -1,7 +1,8 @@
 .about__author-link {
     /*text-decoration: none;*/
-    color: black;
+    font-size: 1.8em;
     animation: pulse 3s infinite linear;
+    text-align: center;
 }
 
 @media screen and (max-width: 600px) {

@@ -1,5 +1,7 @@
 .about__subtitle {
     font-size: 2.5em;
-    text-align: left;
-    margin-left: 3.5em;
+    color: darkgreen;
+    margin-left: 3em;
+    text-transform: uppercase;
+    /*text-decoration: underline;*/
 }

@@ -1,0 +1,11 @@
+.results__items {
+    list-style: none;
+    margin-left: 6em;
+    /*background-color: #7fc330;*/
+}
+
+@media screen and (max-width: 600px) {
+    .results__items {
+        padding-left: 2%;
+    }
+}
