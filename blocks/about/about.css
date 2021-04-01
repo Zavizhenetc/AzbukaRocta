@@ -1,4 +1,5 @@
 @import url("./__title/about__title.css");
+@import url("./__subtitle/about__subtitle.css");
 @import url("./__text/about__text.css");
 @import url("./__items/about__items.css");
 @import url("./__item-logo/about__item-logo.css");
@@ -12,6 +13,7 @@
 @import url("./__author-text/about__author-text.css");
 @import url("./__author-title/about__author-title.css");
 @import url("./__author-link/about__author-link.css");
+
 
 .about {
     font-family: 'sans-serif';
