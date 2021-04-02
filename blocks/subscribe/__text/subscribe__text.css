@@ -1,12 +1,19 @@
-.subscribe__text{
+.subscribe__text {
     margin: 0;
     font-size: 1.5em;
-}.subscribe__text span{
-    color: black;
-    font-weight: bold;
+    color: #def196;
+    padding-left: 7%;
+    padding-right: 4%;
 }
- @media screen and (max-width: 600px){
-     .subscribe__text{
-         font-size: 1.2em;
-     }
- }
+.subscribe__text span {
+    /*color: black;*/
+    font-weight: bold;
+    color: #def196;
+    text-shadow: 0 0 9px #fdf9f9;
+}
+
+@media screen and (max-width: 600px) {
+    .subscribe__text {
+        font-size: 1.2em;
+    }
+}
