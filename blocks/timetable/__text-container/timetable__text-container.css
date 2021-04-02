@@ -1,6 +1,7 @@
 .timetable__text-container{
-font-size: 1.5em;
-    padding-right: 1%;
+    font-size: 2em;
+    /* padding-right: 1%; */
+    max-width: 90%;
 }
 @media screen and (max-width: 850px){
     .timetable__text-container{

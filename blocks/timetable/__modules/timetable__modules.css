@@ -2,7 +2,8 @@
     background-color: #2f481e;
     padding: 2%;
     color: #def196;
-    font-size: 1.5em;
+    font-size: 2em;
+    max-width: 90%;
 }
 
 @media screen and (max-width: 850px) {

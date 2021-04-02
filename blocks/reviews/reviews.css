@@ -5,8 +5,14 @@
 @import url("./__text-container/reviews__text-container.css");
 @import url("./__text-author/reviews__text-author.css");
 @import url("./__text/reviews__text.css");
+@import url("./__description/reviews__description.css");
 
 
-.reviews{
-
+.reviews {
+    display: flex;
+    flex-direction: column;
+    font-family: 'sans-serif';
+    max-width: 1440px;
+    width: 95%;
+    margin: 0 auto;
 }

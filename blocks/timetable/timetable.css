@@ -3,21 +3,25 @@
 @import url("./__modules/timetable__modules.css");
 @import url("./__module-text/timetable__module-text.css");
 @import url("./__module-result/timetable__module-result.css");
+@import url("./__bg-img/timetable__bg-img.css");
 
 .timetable {
     display: flex;
+    flex-direction: column;
     font-family: 'sans-serif';
     max-width: 1440px;
+    width: 95%;
     margin: 0 auto;
     padding-top: 4%;
     padding-right: 0;
     padding-left: 2%;
+    align-items: center;
     /*padding-bottom: 0;*/
-    background-image: url(../../images/positive_student.png);
-    background-position-x: left;
-    background-position-y: bottom;
-    background-size: 50%;
-    background-repeat: no-repeat;
+    /*background-image: url(../../images/positive_student.png);*/
+    /*background-position-x: left;*/
+    /*background-position-y: bottom;*/
+    /*background-size: 50%;*/
+    /*background-repeat: no-repeat;*/
 
 }
 

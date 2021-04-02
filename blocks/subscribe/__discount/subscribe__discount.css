@@ -5,6 +5,7 @@
     color: #def196;
     text-shadow: 0 0 9px #fdf9f9;
     line-height: 2em;
+    width: 100%;
 }
 
 @media screen and (max-width: 600px) {
