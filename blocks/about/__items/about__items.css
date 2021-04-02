@@ -9,3 +9,8 @@
         padding-left: 2%;
     }
 }
+@media screen and (max-width: 980px) {
+    .about__items {
+        margin-left: auto;
+    }
+}

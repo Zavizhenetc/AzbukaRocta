@@ -2,6 +2,12 @@
     font-size: 1.5em;
     text-align: left;
 }
+@media screen and (max-width: 500px) {
+    .about__author-description {
+        font-size: 1.5em;
+        text-align: left;
+    }
+}
 .about__author-description .about__author-text:first-of-type {
      background-color: #2f481e;
     color: #def196;

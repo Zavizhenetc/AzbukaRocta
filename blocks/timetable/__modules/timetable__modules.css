@@ -13,3 +13,9 @@
 
     }
 }
+@media screen and (max-width: 6000px) {
+    .timetable__modules {
+        font-size: 1.5em;
+
+    }
+}

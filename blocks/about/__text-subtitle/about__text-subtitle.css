@@ -1,11 +1,27 @@
-.about__text-subtitle{
+.about__text-subtitle {
     font-size: 2.5em;
     font-weight: bolder;
     margin-bottom: 0;
     text-align: left;
     margin-left: 3.5em;
 }
-.about__text-subtitle span{
+
+.about__text-subtitle span {
     text-transform: uppercase;
     font-weight: bolder;
 }
+
+@media screen and ( max-width: 850px) {
+    .about__text-subtitle {
+        font-size: 1.8em;
+        margin: auto;
+    }
+}
+
+@media screen and ( max-width: 500px) {
+    .about__text-subtitle {
+        font-size: 1.5em;
+        margin: 1em auto;
+    }
+}
+

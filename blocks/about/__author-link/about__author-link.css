@@ -1,5 +1,6 @@
 .about__author-link {
     /*text-decoration: none;*/
+    display: flex;
     font-size: 1.8em;
     animation: pulse 3s infinite linear;
     text-align: center;

@@ -6,3 +6,10 @@
     text-align: start;
 
 }
+
+@media screen and (max-width: 800px) {
+    .about__year-text {
+        font-size: 1.5em;
+        margin-left: auto;
+    }
+}

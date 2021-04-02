@@ -4,3 +4,8 @@
     font-size: 3em;
     text-transform: uppercase;
 }
+@media screen and (max-width: 600px){
+    .results__title{
+        font-size: 2em;
+    }
+}
